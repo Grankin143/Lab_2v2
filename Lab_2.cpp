@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include "stdio.h"
 #include "Windows.h"
-
+.
 struct lek {
 	int amount, year, month, day;
 	double price;
